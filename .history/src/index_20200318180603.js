@@ -25,7 +25,7 @@ class App extends React.Component {
         return (
             <div>
                 <div>Latitude: {this.state.lat}</div>
-                <div>Longitude: {this.state.long}</div>
+                <div>Latitude: {this.state.lat}</div>
             </div>
         
 
